@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: 个人技术博客<修整中...>
+tags: [about, owner]
 date: 2016-03-21
 ---
 
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://synemin.github.io/Moon"><b>Synemin</b></a> is my blog, one fork from moon with jekyll theme.</center>
 
 ## Features
 * Minimal, you can focus on your content
