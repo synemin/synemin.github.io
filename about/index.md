@@ -5,7 +5,7 @@ tags: [about, owner]
 date: 2016-03-21
 ---
 
-<center><a href="http://synemin.github.io/Moon"><b>Synemin</b></a> is my blog, one fork from moon with jekyll theme.</center>
+<center><a href="http://synemin.github.io"><b>Synemin</b></a> is my blog, one fork from moon with jekyll theme.</center>
 
 ## Features
 * Minimal, you can focus on your content
